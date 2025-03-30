@@ -1,5 +1,6 @@
 import Header from './components/header/header'
 import HeroSection from './components/hero/hero'
+import Collection from './components/collection/collection'
 import './App.css'
 
 function App() {
@@ -8,6 +9,7 @@ function App() {
     <div>
       <Header/>
       <HeroSection/>
+      <Collection/>
       
     </div>
   )
